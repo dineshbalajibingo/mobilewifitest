@@ -1,0 +1,31 @@
+{
+  "total": 4,
+  "pass": 4,
+  "fail": 0,
+  "skip": 0,
+  "classes": [
+    "fifththird.login.mobileTesting"
+  ],
+  "envInfo": {
+    "browser-actual-capabilities": {},
+    "isfw-build-info": {
+      "qaf-Type": "core",
+      "qaf-Revision": "13",
+      "qaf-Version": "2.1",
+      "qaf-Build-Time": "20-Feb-2018 00:19:29"
+    },
+    "run-parameters": {},
+    "execution-env-info": {
+      "java.arch": "64",
+      "java.vendor": "Oracle Corporation",
+      "java.version": "1.8.0_60",
+      "os.arch": "x86_64",
+      "host": "Bingo",
+      "os.name": "Mac OS X",
+      "user.name": "dineshbalajivenkataraman",
+      "os.version": "10.13.6"
+    }
+  },
+  "startTime": 1532584932360,
+  "endTime": 1532585004510
+}

@@ -1,0 +1,109 @@
+{
+  "reports": [
+    {
+      "name": "Appium Demo Suite",
+      "dir": "test-results/Thu26Jul18_0110PM",
+      "startTime": 1532590852867
+    },
+    {
+      "name": "Appium Demo Suite",
+      "dir": "test-results/Thu26Jul18_0101PM",
+      "startTime": 1532590262586
+    },
+    {
+      "name": "Appium Demo Suite",
+      "dir": "test-results/Thu26Jul18_1252PM",
+      "startTime": 1532589745568
+    },
+    {
+      "name": "Appium Demo Suite",
+      "dir": "test-results/Thu26Jul18_1246PM",
+      "startTime": 1532589412191
+    },
+    {
+      "name": "Appium Demo Suite",
+      "dir": "test-results/Thu26Jul18_1229PM",
+      "startTime": 1532588399596
+    },
+    {
+      "name": "Appium Demo Suite",
+      "dir": "test-results/Thu26Jul18_1216PM",
+      "startTime": 1532587612079
+    },
+    {
+      "name": "Appium Demo Suite",
+      "dir": "test-results/Thu26Jul18_1216PM",
+      "startTime": 1532587571378
+    },
+    {
+      "name": "Appium Demo Suite",
+      "dir": "test-results/Thu26Jul18_1215PM",
+      "startTime": 1532587509017
+    },
+    {
+      "name": "Appium Demo Suite",
+      "dir": "test-results/Thu26Jul18_1214PM",
+      "startTime": 1532587491362
+    },
+    {
+      "name": "Appium Demo Suite",
+      "dir": "test-results/Thu26Jul18_1210PM",
+      "startTime": 1532587249203
+    },
+    {
+      "name": "Appium Demo Suite",
+      "dir": "test-results/Thu26Jul18_1132AM",
+      "startTime": 1532584956414
+    },
+    {
+      "name": "Appium Demo Suite",
+      "dir": "test-results/Thu26Jul18_1132AM",
+      "startTime": 1532584930269
+    },
+    {
+      "name": "Appium Demo Suite",
+      "dir": "test-results/Thu26Jul18_1126AM",
+      "startTime": 1532584589020
+    },
+    {
+      "name": "Appium Demo Suite",
+      "dir": "test-results/Thu26Jul18_1111AM",
+      "startTime": 1532583711884
+    },
+    {
+      "name": "Appium Demo Suite",
+      "dir": "test-results/Thu26Jul18_1106AM",
+      "startTime": 1532583368423
+    },
+    {
+      "name": "Appium Demo Suite",
+      "dir": "test-results/Thu26Jul18_1103AM",
+      "startTime": 1532583209786
+    },
+    {
+      "name": "Appium Demo Suite",
+      "dir": "test-results/Thu26Jul18_1059AM",
+      "startTime": 1532582983481
+    },
+    {
+      "name": "Appium Demo Suite",
+      "dir": "test-results/Thu26Jul18_1056AM",
+      "startTime": 1532582816477
+    },
+    {
+      "name": "Appium Demo Suite",
+      "dir": "test-results/Thu26Jul18_1055AM",
+      "startTime": 1532582751094
+    },
+    {
+      "name": "Appium Demo Suite",
+      "dir": "test-results/Thu26Jul18_1054AM",
+      "startTime": 1532582695318
+    },
+    {
+      "name": "Appium Demo Suite",
+      "dir": "test-results/Thu26Jul18_1054AM",
+      "startTime": 1532582642552
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "methods": [
+    {
+      "index": 0,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "resultFileName": "BeforTest",
+        "name": "beforTest",
+        "groups": [],
+        "description": ""
+      },
+      "dependsOn": [],
+      "startTime": 1532587571436,
+      "duration": 3124,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "resultFileName": "OpenAPP",
+        "name": "OpenAPP",
+        "groups": []
+      },
+      "dependsOn": [],
+      "startTime": 1532587574579,
+      "duration": 7,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "resultFileName": "EnterUsernamePassword",
+        "name": "enterUsernamePassword",
+        "groups": []
+      },
+      "dependsOn": [],
+      "startTime": 1532587574596,
+      "duration": 1208,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "resultFileName": "ClickLogin",
+        "name": "clickLogin",
+        "groups": []
+      },
+      "dependsOn": [],
+      "startTime": 1532587575812,
+      "duration": 1204,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "resultFileName": "ValidateLogin",
+        "name": "validateLogin",
+        "groups": []
+      },
+      "dependsOn": [],
+      "startTime": 1532587577026,
+      "duration": 1204,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "resultFileName": "SwitchwifiOff",
+        "name": "switchwifiOff",
+        "groups": []
+      },
+      "dependsOn": [],
+      "startTime": 1532587578239,
+      "duration": 1,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 0,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "resultFileName": "BeforTestGEZTnCIQlv",
+        "name": "beforTest",
+        "groups": [],
+        "description": ""
+      },
+      "dependsOn": [],
+      "startTime": 1532587612157,
+      "duration": 27722,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "resultFileName": "OpenAPPZycEUPkQrN",
+        "name": "OpenAPP",
+        "groups": []
+      },
+      "dependsOn": [],
+      "startTime": 1532587639903,
+      "duration": 5998,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "resultFileName": "EnterUsernamePasswordHLFOCsDfPU",
+        "name": "enterUsernamePassword",
+        "groups": []
+      },
+      "dependsOn": [],
+      "startTime": 1532587645912,
+      "duration": 13900,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "resultFileName": "ClickLoginGkiFfCLwXw",
+        "name": "clickLogin",
+        "groups": []
+      },
+      "dependsOn": [],
+      "startTime": 1532587659822,
+      "duration": 3344,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "resultFileName": "ValidateLoginIeShsGVBww",
+        "name": "validateLogin",
+        "groups": []
+      },
+      "dependsOn": [],
+      "startTime": 1532587663174,
+      "duration": 2908,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "resultFileName": "SwitchwifiOffBdwxnxAFdx",
+        "name": "switchwifiOff",
+        "groups": []
+      },
+      "dependsOn": [],
+      "startTime": 1532587666089,
+      "duration": 38487,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}

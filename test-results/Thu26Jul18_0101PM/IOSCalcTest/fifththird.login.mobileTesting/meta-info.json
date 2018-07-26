@@ -1,0 +1,95 @@
+{
+  "methods": [
+    {
+      "index": 0,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "resultFileName": "BeforTest",
+        "name": "beforTest",
+        "groups": [],
+        "description": ""
+      },
+      "dependsOn": [],
+      "startTime": 1532590262645,
+      "duration": 26264,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "resultFileName": "OpenAPP",
+        "name": "OpenAPP",
+        "groups": []
+      },
+      "dependsOn": [],
+      "startTime": 1532590288929,
+      "duration": 5919,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "resultFileName": "EnterUsernamePassword",
+        "name": "enterUsernamePassword",
+        "groups": []
+      },
+      "dependsOn": [],
+      "startTime": 1532590294856,
+      "duration": 16143,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "resultFileName": "ClickLogin",
+        "name": "clickLogin",
+        "groups": []
+      },
+      "dependsOn": [],
+      "startTime": 1532590311014,
+      "duration": 6104,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "resultFileName": "ValidateLogin",
+        "name": "validateLogin",
+        "groups": []
+      },
+      "dependsOn": [],
+      "startTime": 1532590317128,
+      "duration": 2909,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "resultFileName": "SwitchwifiOff",
+        "name": "switchwifiOff",
+        "groups": []
+      },
+      "dependsOn": [],
+      "startTime": 1532590320044,
+      "duration": 46423,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}

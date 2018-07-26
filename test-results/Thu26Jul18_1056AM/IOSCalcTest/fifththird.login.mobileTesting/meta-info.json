@@ -1,0 +1,50 @@
+{
+  "methods": [
+    {
+      "index": 0,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "resultFileName": "BeforTest",
+        "name": "beforTest",
+        "groups": [],
+        "description": ""
+      },
+      "dependsOn": [],
+      "startTime": 1532582816534,
+      "duration": 38248,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "resultFileName": "OpenAPP",
+        "name": "OpenAPP",
+        "groups": []
+      },
+      "dependsOn": [],
+      "startTime": 1532582854803,
+      "duration": 5881,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "resultFileName": "EnterUsernamePassword",
+        "name": "enterUsernamePassword",
+        "groups": []
+      },
+      "dependsOn": [],
+      "startTime": 1532582860693,
+      "duration": 17406,
+      "result": "fail",
+      "passPer": 0.0
+    }
+  ]
+}

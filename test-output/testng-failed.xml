@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Appium Demo Suite]" parallel="tests">
+  <listeners>
+    <listener class-name="com.quantum.listeners.QuantumReportiumListener"/>
+  </listeners>
+  <test thread-count="5" verbose="0" name="IOS Calc Test(failed)" parallel="tests">
+    <classes>
+      <class name="fifththird.login.mobileTesting">
+        <methods>
+          <include name="enterUsernamePassword"/>
+          <include name="clickLogin"/>
+          <include name="switchwifiOff"/>
+          <include name="beforTest"/>
+          <include name="validateLogin"/>
+        </methods>
+      </class> <!-- fifththird.login.mobileTesting -->
+    </classes>
+  </test> <!-- IOS Calc Test(failed) -->
+</suite> <!-- Failed suite [Appium Demo Suite] -->
