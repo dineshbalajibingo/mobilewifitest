@@ -29,9 +29,9 @@ public class mobileTesting {
 	final int 		interval = 30000; // The interval of time to watch the trailer. *currently 30 seconds.
 	
 	//TODO: Change my user , password and host cloud URL.
-	final String user = "dinesh.venkataraman@internal.53.com";
-	final String pass = "Perfecto123";
-	final String host = "fifththird.perfectomobile.com";
+	final String user = "dinesh@internal.53.com";
+	final String pass = "";
+	final String host = "XX.perfectomobile.com";
 	
 	@BeforeTest
 	public void beforTest() throws MalformedURLException{
